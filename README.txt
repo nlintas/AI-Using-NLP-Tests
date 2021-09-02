@@ -1,3 +1,18 @@
+Detailed Description:
+    These are a series of tests that were made using a Natural Language Processing (NLP) type of programming language. Problems solved in Prolog using AI: 
+    1) Missionaries & Cannibals 
+    2) Family Crossing the Bridge 
+    3) Glass Jar 
+    4) Maze Problem 
+    5) Job Allocation Problem 
+    6) Travelling Salesmen Problem 
+    7) Map Colouring Problem 
+    8) Simple Scheduling Problem 
+    9) Cryptanalysis Problem 
+    10) Knowledge Representation Problem 
+    11) Natural Language Processing Problem 
+    12) Decision Trees.
+
 Aims:
     - formally represent problems and knowledge;
     - identify the differences between the various search algorithms and knowledge representation paradigms, by being aware of their advantages and disadvantages;
