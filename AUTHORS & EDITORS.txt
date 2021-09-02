@@ -1,0 +1,22 @@
+* DISCLAIMER: Most of the files are provided from the open-source community worldwide originally, after modifications minor or major the developers below released them in this repository. Therefore, from request or licensing terms of the original authors the code provided is considered open-source. *
+
+Thanks to original authors:
+    - Rodion Efremov the Finnish Open-Source Computer Scientist
+    - Dr. Zdravko Markov, a US Computer Scientist
+
+Testing Time: 1 month.
+University of Sheffield Project from:
+
+Editors & Testers:
+
+ - Nikolaos Lintas - https://www.linkedin.com/in/nikos-li-computer-science-971130209/ - https://github.com/nlintas
+        - Testing
+        - AI Algorithm Developer
+        - Statistical Analysis of Results
+        - Documentation
+
+ - Phillip Kalatzis - https://www.linkedin.com/in/phillipos-andrianos-k-968454119/
+        - Testing
+        - AI Algorithm Developer
+        - Statistical Analysis of Results
+        - Documentation
