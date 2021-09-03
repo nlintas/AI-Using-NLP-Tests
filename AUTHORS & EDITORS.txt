@@ -15,7 +15,7 @@ Editors & Testers:
         - Statistical Analysis of Results
         - Documentation
 
- - Phillip Kalatzis - https://www.linkedin.com/in/phillipos-andrianos-k-968454119/
+ - Phillip Kalatzis - https://www.linkedin.com/in/phillipos-andrianos-k-968454119/ - https://github.com/SuperBugX
         - Testing
         - AI Algorithm Developer
         - Statistical Analysis of Results
