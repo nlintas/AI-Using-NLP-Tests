@@ -21,6 +21,6 @@ Aims:
     - understand basic natural language issues and implement simple solutions for syntax parsing and semantic annotation and understanding.
 
 To run: 
-    - Use SWI-Prolog or for smaller tests use https://swish.swi-prolog.org/
+    - Use SWI-Prolog (https://www.swi-prolog.org/download/stable) or for smaller tests use https://swish.swi-prolog.org/
 
 DISCLAIMER: A decent amount of files from this project have been cut because other authors did not agree to sharing their code or couldn't be reached. This may change throughout time and more content may be added.
